@@ -1,0 +1,38 @@
+/* S2 Extra Presets */
+/* Font weight */
+.fw-300 {
+    font-weight: 300 !important;
+}
+
+.fw-500 {
+    font-weight: 500 !important;
+}
+
+.fw-700 {
+    font-weight: 700 !important;
+}
+
+/* letter spacing */
+.ls-1 {
+    letter-spacing: 1px;
+}
+
+.ls-2 {
+    letter-spacing: 2px;
+}
+
+.ls-3 {
+    letter-spacing: 3px;
+}
+
+.ls--1 {
+    letter-spacing: -1px;
+}
+
+.ls--2 {
+    letter-spacing: -2px;
+}
+
+.ls--3 {
+    letter-spacing: -3px;
+}
